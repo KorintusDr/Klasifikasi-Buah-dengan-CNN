@@ -20,7 +20,7 @@ pip install --upgrade tensorflow tensorflowjs kaggle numpy pandas pillow matplot
 ## Struktur Direktori
 Setelah menjalankan kode, struktur folder akan menjadi sebagai berikut:
 ```
-submission/
+klasifikasi_buah/
 ├── fruits/
 ├── saved_model/
 ├── tflite/
